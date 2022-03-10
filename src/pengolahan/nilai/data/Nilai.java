@@ -12,4 +12,9 @@ public class Nilai {
     public void setNilai(ArrayList<Integer> nilai) {
         this.nilai = nilai;
     }
+
+
+
+
+
 }

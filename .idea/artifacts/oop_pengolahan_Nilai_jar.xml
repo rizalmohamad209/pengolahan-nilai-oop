@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="oop-pengolahan-Nilai:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/oop_pengolahan_Nilai_jar</output-path>
+    <root id="archive" name="oop-pengolahan-Nilai.jar">
+      <element id="module-output" name="oop-pengolahan-Nilai" />
+    </root>
+  </artifact>
+</component>
